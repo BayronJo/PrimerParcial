@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PrimerParcial</string>
+    <string name="Nuevo">Nuevo Encuestado</string>
+    <string name="Lista">Lista Encuestado</string>
+    <string name="Nombre">Nombre</string>
+    <string name="formulario">Formulario Encuestado</string>
+    <string name="Apellidos">Digite sus Apellidos</string>
+    <string name="nombres">Digite Su Nombre</string>
+    <string name="alimentos">Listar Alimentos</string>
+    <string name="procesar">Procesar</string>
+    <string name="listaalimentos">Lista de Alimentos</string>
+    <string name="guardarlista">Guardar Lista</string>
+    <string name="carne">carne</string>
+    <string name="ensalda">ensalada</string>
+    <string name="pasta">pasta</string>
+    <string name="pollo">pollo</string>
+</resources>
